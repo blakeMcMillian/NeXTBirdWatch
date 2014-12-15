@@ -1,0 +1,39 @@
+PODS:
+  - AMPActivityIndicator (0.1.2)
+  - Canvas (0.1.2)
+  - FLAnimatedImage (1.0.7)
+  - Google-Maps-iOS-SDK (1.9.1)
+  - PNChart (0.5.6):
+    - UICountingLabel (~> 1.0.0)
+  - pop (1.0.7)
+  - Regexer (1.3.1)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
+  - STTwitter (0.1.7)
+  - UICountingLabel (1.0.0)
+
+DEPENDENCIES:
+  - AMPActivityIndicator
+  - Canvas (~> 0.1.2)
+  - FLAnimatedImage (~> 1.0)
+  - Google-Maps-iOS-SDK (~> 1.9.0)
+  - PNChart (~> 0.5.5)
+  - pop (~> 1.0.7)
+  - Regexer (~> 1.3.1)
+  - SDWebImage (~> 3.6)
+  - STTwitter
+
+SPEC CHECKSUMS:
+  AMPActivityIndicator: 874d67c56d169dbed1c52410daa95fe42004410a
+  Canvas: ae2faca05a15c4d6659fb3ae5e2a14817df4449a
+  FLAnimatedImage: d9e8422a9e1d8ee9a657b7433b4a9b073ef3efb3
+  Google-Maps-iOS-SDK: 25fa3c054c74a7dcb82e3ef38224cfa6b66c9344
+  PNChart: c2760f38afbb28533385e900792d57efb6a52643
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  Regexer: 8c434d2830b9f05eaf876f9517024cee30374ba5
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+  STTwitter: 907dfe9b6d4c9bbedbfd9b725632e27a140d4bdd
+  UICountingLabel: 0a0e9e34bf4690dbd127aaec552d19ed938087a9
+
+COCOAPODS: 0.34.4

@@ -335,12 +335,12 @@
 			name = NextMap;
 			sourceTree = "<group>";
 		};
-		8185028C1A3F540000BE2A2E /* SDK */ = {
+		8185028C1A3F540000BE2A2E /* SDK - API */ = {
 			isa = PBXGroup;
 			children = (
 				8185028D1A3F540900BE2A2E /* TwitterAnalyzer */,
 			);
-			name = SDK;
+			name = "SDK - API";
 			sourceTree = "<group>";
 		};
 		8185028D1A3F540900BE2A2E /* TwitterAnalyzer */ = {
@@ -375,7 +375,7 @@
 		8187182F1A1DCC83007DACA6 /* nextBirdWatch */ = {
 			isa = PBXGroup;
 			children = (
-				8185028C1A3F540000BE2A2E /* SDK */,
+				8185028C1A3F540000BE2A2E /* SDK - API */,
 				81AA930C1A1E0B3500D7D283 /* Assets */,
 				81DF83DC1A1E2F28002B2260 /* Model(s) */,
 				81AA93081A1E0A6800D7D283 /* Interface */,
